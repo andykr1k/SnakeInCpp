@@ -11,5 +11,29 @@
 <img alt="GitHub Commit Activity (Week)" src="https://img.shields.io/github/commit-activity/w/andykr1k/SnakeInCpp?&style=for-the-badge"/>
 </div>
 
+# To Begin Program:
+
+## Clone Repo:
+
+```
+git clone https://github.com/andykr1k/SnakeInCpp.git
+```
+
+## Make File:
+```
+cd ~/SnakeInCpp
+make
+```
+
+## Execute Program:
+```
+./snake.x
+```
+
+## Clean Files:
+```
+make clean
+```
+
 # References
 
